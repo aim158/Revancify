@@ -43,9 +43,9 @@
             }
         }
     },
-    "kitadai31": 
+    "aim158": 
     {
-        "projectName": "RVX(Android6-7)",
+        "projectName": "older-rvx",
         "sources": 
         {
             "cli":
@@ -55,13 +55,13 @@
             },
             "patches":
             {
-                "org": "kitadai31",
-                "repo": "revanced-patches-android6-7"
+                "org": "aim158",
+                "repo": "older-rvx-patches"
             },
             "integrations":
             {
-                "org": "kitadai31",
-                "repo": "revanced-integrations"
+                "org": "aim158",
+                "repo": "older-rvx-integrations"
             }
         }
     }
