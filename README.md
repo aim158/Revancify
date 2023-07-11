@@ -22,7 +22,8 @@
 
 # Guide
 
-### [Video Guide](https://youtu.be/3e4OJ88I2pA)
+[![VideoGuide](https://img.shields.io/badge/YouTube_Video_Guide-FF0000?style=for-the-badge&logo=YouTube&logoColor=FFFFFF) ![hi](https://img.shields.io/youtube/views/I8-VM6rJL1c?style=for-the-badge&logo=YouTube&logoColor=ffffff&labelColor=ff0000&color=555555)![hi](https://img.shields.io/youtube/likes/I8-VM6rJL1c?style=for-the-badge&logo=YouTube&logoColor=ffffff&labelColor=ff0000&color=555555)](https://youtu.be/I8-VM6rJL1c)
+
 
 ## Installation
 1. Open Termux.  
